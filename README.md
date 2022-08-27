@@ -3,6 +3,7 @@
 Tried building a simple socket.io game problem in a period of 3 hours as part of evaluation at Masai School.
 
 Problem Statement
+
 Create a web based two player game in nodejs with websockets
 game has a very basic UI, feel free to use simple HTML/JS/CSS.
 Whenever a player visits site, show him basic ui with following elements
